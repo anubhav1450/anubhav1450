@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Anubhav  👋<br><br>I’m a final-year Computer Science student currently focused on building web applications using React and JavaScript. Most of my work here revolves around frontend projects where I experiment with UI design, component structure, and clean code practices.<br><br>I’m gradually exploring backend concepts and have basic exposure to Docker for containerizing applications. Alongside development, I regularly practice Data Structures & Algorithms to strengthen my fundamentals.<br><br>Always learning, building, and improving<br>
+Hi, I’m Anubhav  👋<br><br>I’m a final-year Computer Science undergraduate with hands-on experience in Java, Python, and JavaScript (MERN stack). Proficient in backend development, REST APIs, and DevOps practices including containerization using Docker and GitHub Actions. Experienced in building scalable full-stack applications with focus on performance and caching. Comfortable working in macOS/Linux environments. Actively solving problems on LeetCode to strengthen Data Structures & Algorithms skills.<br>
 
 
 ## 🌐 Socials:
