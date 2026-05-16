@@ -17,7 +17,6 @@ Hi, I’m Anubhav  👋<br><br>I’m a final-year Computer Science undergraduate
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=anubhav1450&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
