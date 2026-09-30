@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Anubhav  👋<br><br>I’m a final-year Computer Science undergraduate with hands-on experience in Java, Python, and JavaScript (MERN stack). Proficient in backend development, REST APIs, and DevOps practices including containerization using Docker and GitHub Actions. Experienced in building scalable full-stack applications with focus on performance and caching. Comfortable working in macOS/Linux environments. Actively solving problems on LeetCode to strengthen Data Structures & Algorithms skills.<br>
+Hi, I’m Anubhav  👋<br><br>I’m a Computer Science and Engineering undergraduate with hands-on experience in Java, Python, and JavaScript (MERN stack). Proficient in backend development, REST APIs, and DevOps practices including containerization using Docker and GitHub Actions. Experienced in building scalable full-stack applications with focus on performance and caching. Comfortable working in macOS/Linux environments. Actively solving problems on LeetCode to strengthen Data Structures & Algorithms skills.<br>
 
 
 ## 🌐 Socials:
