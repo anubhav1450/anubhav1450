@@ -1,10 +1,11 @@
 # 💫 About Me:
-Hey, I'm **Anubhav** 👋
 
-🎓 **B.Tech CSE '26** | Backend-focused Software Engineer  
-💼 **Software Engineer Intern at Lighthouse Info Systems** — worked on Node.js/Express APIs, MongoDB workflows, JWT authentication and RBAC.  
-🚀 **Projects:** Agent Trust Lab (Python/FastAPI + AI agent trust) · Real-Time Collaborative Editor (Yjs + Socket.IO).  
-🏆 **LeetCode:** Peak contest rating **1817** · **Top 7.63%** · **600+ DSA problems** across coding platforms.  
+Hey, I'm **Anubhav** 👋 — a **2026 Computer Science graduate** who enjoys building backend systems and figuring out how things work under the hood.
+
+I worked as a **Software Engineer Intern at Lighthouse Info Systems**, building APIs and order-management workflows with **Node.js, Express, MongoDB, and JWT/RBAC**. Outside of that, I've built a **real-time collaborative editor** and **Agent Trust Lab**, a Python project exploring trust and observability in AI-agent workflows.
+
+I also enjoy competitive programming: **600+ DSA problems** across platforms and a **peak LeetCode contest rating of 1817 (top 7.63%)**.
+
 🌐 **Portfolio:** [Explore my work](https://anubhav1450.github.io/anubhav-portfolio/)
 
 ## 🌐 Socials:
@@ -24,10 +25,8 @@ Hey, I'm **Anubhav** 👋
 
 **Cloud, Testing & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anubhav1450&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=anubhav1450&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anubhav1450&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Streak:
+![](https://streak-stats.demolab.com/?user=anubhav1450&theme=dark&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
